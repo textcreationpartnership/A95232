@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the late proceedings of the London Dragoneers, sent down to Oxford, consisting of foure companies under the command of Sir Iohn Seaton. The captaines of which companies that were appointed in the said expedition, were as followeth, viz. Serjeant Major Lee. Captaine Stackhouse. Captaine Wilson. Captaine Mason.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95232</idno>
+            <idno type="STC">Wing T2989</idno>
+            <idno type="STC">Thomason E118_39</idno>
+            <idno type="STC">ESTC R10541</idno>
+            <idno type="EEBO-CITATION">99858858</idno>
+            <idno type="PROQUEST">99858858</idno>
+            <idno type="VID">156112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156112)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the late proceedings of the London Dragoneers, sent down to Oxford, consisting of foure companies under the command of Sir Iohn Seaton. The captaines of which companies that were appointed in the said expedition, were as followeth, viz. Serjeant Major Lee. Captaine Stackhouse. Captaine Wilson. Captaine Mason.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sep: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seaton, John, --  Sir.</term>
+               <term>England and Wales. --  Army. --  London Dragoneers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156112:1"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:156112:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>A True RELATION Of the late proceedings of the <hi>London</hi> Dragoneers, ſent down to <hi>Oxford,</hi> conſiſting of foure Companies under the command of Sir <hi>Iohn Seaton.</hi>
+            </p>
+            <p>The Captaines of which Companies that were appointed in the ſaid Expedition, were as followeth, <hi>Viz.</hi>
+               <list>
+                  <item>Serjeant Major <hi>LEE.</hi>
+                  </item>
+                  <item>Captaine <hi>STACKHOUSE.</hi>
+                  </item>
+                  <item>Captaine <hi>WILSON.</hi>
+                  </item>
+                  <item>Captaine <hi>MASON.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Overton.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156112:2"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="3" facs="tcp:156112:2"/>
+            <!-- PDF PAGE 116 -->
+            <opener>
+               <dateline>
+                  <date>September 8. 1642. being Thurſday.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Aptaine <hi>Lee,</hi> Captaine <hi>Stackhouſe,</hi> and Captaine <hi>Maſon,</hi> towards the evening marched out of the City of <hi>London</hi> with 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peeces of Ordnance, and Waggons of Ammunition to <hi>Acton,</hi> and there tooke up their quarter that night. Captaine <hi>Wilſon</hi> with his Company marching after them in the night rode to <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi> and quartered his men there, <hi>Acton</hi> not being able to contain them; and Colonell <hi>Brown</hi> with his Dragoneers being to march the ſame way, wanting lodging there at <hi>Acton,</hi> croſſed over from <hi>Acton</hi>-rode to <hi>Brainford</hi> to quarter there.</p>
+            <p>
+               <label>September 9.</label>
+Captaine <hi>Wilſon</hi> marched from <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi> and quartered at <hi>Amerſham,</hi> and in that afternoon drew his men into a bo<g ref="char:EOLhyphen"/>dy, and exerciſed them, and Captaine <hi>Lee,</hi> Captaine <hi>Maſon,</hi> and the Company of Captain <hi>Stackhouſe</hi> did lodge at <hi>Chal<g ref="char:EOLhyphen"/>font S. Peters,</hi> with their Ordnance and Ammunition.</p>
+            <p>
+               <label>September 10.</label>
+Captaine <hi>Wilſon</hi> marched forward towards <hi>Alesbury,</hi> and there in the way met divers Cavalleers that were con<g ref="char:EOLhyphen"/>veighed up in Carts towards <hi>London,</hi> being taken in the North, and guarded up by the High-ſheriffes men of <hi>Buc<g ref="char:EOLhyphen"/>kinghamſhire,</hi>
+               <pb facs="tcp:156112:3"/>
+               <!-- PDF PAGE 117 -->
+               <pb n="3" facs="tcp:156112:3"/>
+               <!-- PDF PAGE 117 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:156112:4"/>
+               <!-- PDF PAGE 118 -->and Captaine <hi>Wilſon</hi> hearing that they were comming drew up his men into a broad place in the rode that ſo they might have roome to paſſe by his Troope; and paſſing on further he drew up his men in battalia in a great Corn-field on this ſide <hi>Wendover,</hi> and ſo exerciſed his men on Horſebacke', to ſee how his men could doe execution on Horſebacke if they ſhould be ſet upon in a place that might be diſadvantagious to them on foot; at laſt, having exerciſed his men, and hearing the other Companies and the Ord<g ref="char:EOLhyphen"/>nance were comming he ſet forward towards' <hi>Alesbury,</hi> and halfe a mile on this ſide the Towne made a ſtand, that ſo all foure Companies might march into the Towne together, where they were received with much acclamation; Colonell <hi>Brownes</hi> Dragoneers comming about two houres after, there being no roome in the Towne, they were conſtrained to go further to lodge themſelves.</p>
+            <p>
+               <label>September 11.</label>
+Dr. <hi>Pink</hi> Pro-Vicechancellor of <hi>Oxford</hi> came to <hi>Alesbury,</hi> and was clapt there in hold for being a ring-leader to the Schollers of <hi>Oxford</hi> in their exerciſe of Armes, and alſo en<g ref="char:EOLhyphen"/>tertaining the Cavalleers in <hi>Oxford,</hi> going about that night that they were chaſed into <hi>Oxford</hi> to get lodging for them<g ref="char:punc">▪</g> which <hi>Pink<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was ſent up to <hi>London.</hi>
+            </p>
+            <p>
+               <label>September 12.</label>
+Captaine <hi>Lee</hi> marched towards <hi>Amerſham</hi> to meete a Wagon of money comming downe towards <hi>Alesbury,</hi> and to conveigh it ſafe thither. Alſo Captain <hi>Maſons</hi> Company marched to <hi>Maſſenden,</hi> and there ſearched a Delinquents houſe, and brought him to <hi>Alesbury</hi> and committed him to ſafe cuſtody, which priſoner was afterwards carried to <hi>Oxford,</hi> and the<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e bale taken for his appearance at <hi>London</hi> to anſwer it before the Parliament. Captaine <hi>Wilſon</hi> he exer<g ref="char:EOLhyphen"/>ciſed his men this day twice, both morning and evening, in <hi>Aleſbury,</hi> and the Counteſſe of <hi>Carnarvan</hi> gave a Veniſon to. Captaine <hi>Stackhouſe</hi> his company.</p>
+            <p>
+               <pb n="5" facs="tcp:156112:4"/>
+               <!-- PDF PAGE 118 -->
+               <label>September 13.</label>
+Sir <hi>John Seaton</hi> came and commanded the Dragoneers to march towards <hi>Oxford,</hi> who was appointed under my Lord <hi>Say</hi> to lead them, Captaine <hi>Wilſons</hi> company being firſt drawne up into a body, Sir <hi>Iohn</hi> marched away with them, and a mile or two on this ſide <hi>Oxford</hi> Captaine <hi>Stackhouſe</hi> his company overtooke them, and there in a plaine field Sir <hi>Iohn</hi> commanded them to be drawne up in one body, and gave them ſome inſtructions which he would have them obſerve, and ſo marched forward with them, to <hi>Oxford.</hi> At one a clocke at night an alarum was given, and there came meſſengers running to one of the Centinels ſet without the Towne, telling him he had a diſcovery to make knowne, and that the enemy was comming; upon this, ſome Horſe went out, and before they could ride a mile and return with their diſcovery, Captaine <hi>Wilſons</hi> company was drawne up into a body, and he ſtood at the head thereof, without the North gate, expecting to give the enemy a ſalutation with a volley of Lead, That night having ſet his Centinels, and given the Corporals their charge, he marched about the City, to ſee how the Towneſ-men did their duty in the managing their watch, at laſt returning towards his owne Court of Guard, the Centinels knew their duty ſo well that they would not let him come within their Army, but made him ſtand till the Corporall came with his ſword drawne, and pointed at his breaſt and took the word from his Captain. And it being then morning they were all diſmiſſed, and every of his ſoul<g ref="char:EOLhyphen"/>diers repaired to his lodging.</p>
+            <p>
+               <label>September 14.</label>
+An order comming to Captaine <hi>Wilſon</hi> from Sir <hi>Iohn Seaton</hi> concerning meeting of the Lord <hi>Say</hi> at <hi>Thame,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Wilſon</hi> ſummoned his men together and marched with Sir <hi>John</hi> to <hi>Thame,</hi> &amp; there met the Lord <hi>Say,</hi> accompanying him to <hi>Oxford;</hi> and that night Cap. <hi>Wilſon</hi> and his Company watched againe, and ſet Centinels round about one <hi>Napier</hi>
+               <pb n="6" facs="tcp:156112:5"/>
+               <!-- PDF PAGE 119 -->a Papiſts houſe, and alſo a Centinell or two at <hi>New-colledge</hi> doore, and kept his Court of Guard in <hi>Hollowell,</hi> walking the Rounds himſelfe, to ſee that his Centinels did their duty.</p>
+            <p>
+               <label>September 15.</label>
+This thurſday in the morning out comes <hi>Napeirs</hi> ſonne and leapes over the hedge, and the Centinels laid hold of him; and that morning the Captain and his Officers ſearcht the houſe, in which they found Armes, and ſcandalous Pic<g ref="char:EOLhyphen"/>tures, which were brought away to the Lord <hi>Says</hi> Inne where he did lodge.</p>
+            <p>
+               <label>September 16.</label>
+New informations came that there was a vault in <hi>Napiers</hi> houſe, in the Hall, the entrance into which might be ſeens under the Table, it being removed; upon this a re-ſearch was made, and the boards pulled up, but no ſuch thing found. Alſo Captaine <hi>Stackhouſe</hi> with his Company went to <hi>Woodſtocke,</hi> and to <hi>Chippingnorton;</hi> and in that Towne ſome did begin to riſe againſt them; but others in the Town that were well affected joyned with the Captain, and ſo ſtil<g ref="char:EOLhyphen"/>led the commotion. Captaine <hi>Wilſons</hi> Company alſo ſear<g ref="char:EOLhyphen"/>ched Jeſus Colledge, and found Plate, and carried it to the Lord <hi>Say;</hi> and ſome Plate carried from thence, was ſtayed going out at the Towns end, and ſent to the Lord <hi>Say</hi> by Captain <hi>Wilſons</hi> men. Alſo his men ſearched a popiſh houſe and 4. of them found money in foure ſeverall places in the houſe, and carried it to the Lord <hi>Say,</hi> who found ſo much money delivered to him as the woman did affirme to be in the bags. Alſo they brought away a Rhemiſh-Teſtament, &amp;c.</p>
+            <p>
+               <label>September 17.</label>
+Some of Captaine <hi>Wilſons</hi> ſouldiers being at breakfaſt, the maſter of the houſe came up and told them that there was a man below did declare that Doctor <hi>Fruin</hi> did hide him<g ref="char:EOLhyphen"/>ſelfe in his Pig-ſty, and preſently ſome went away with a warrant to ſeize upon him, but his man being in <hi>Oxford,</hi>
+               <pb n="7" facs="tcp:156112:5"/>
+               <!-- PDF PAGE 119 -->rode home, and as it is thought went to the place where the Doctor was, and ſo he made an eſcape; for when they came to ſearch, he was gone about half an hour before. At the ſame time Captain <hi>Wilſon</hi> rode to <hi>Abington</hi> to ſearch the houſe of one M. <hi>Dorrell,</hi> information being given in of many barrels of Dr. <hi>Morris</hi> his goods brought in; which barrels being found, were delivered into the Major of <hi>Abingtons</hi> cuſtody, ſealed up, and to ſee them forthcomming, till there ſhould bea ſtrict ſcrutiny of them by the Lord <hi>Says</hi> appointment. Alſo Captaine <hi>Wilſons</hi> Company found a load of Dr. <hi>Nurſe</hi> his goods in a houſe about a mile from <hi>Oxford,</hi> which <hi>Nurſe</hi> is gone away with the Cavaleers. And halfe a mile further in a barne they found 2 Trunks of Doctor <hi>Fruins,</hi> in which were found things of high concernment; and both theſe guarded to <hi>Oxford,</hi> to the place of the Lord <hi>Says,</hi> reſidence. Alſo Captaine <hi>Maſon</hi> brought a Miniſter, delinquent, from <hi>Abington,</hi> and carried him before the Lord <hi>Say,</hi> as alſo a Conſtable who oppoſed them in their ſearch is to be brought up to London to anſwer to what ſhall be objected againſt him. Likewiſe part of a Squadron of Horſe with Captaine <hi>Lees</hi> Company guarded a Waggon of money to <hi>Oxford</hi> which was brought according to order to the place where the Lord <hi>Say</hi> did lodge. Likewiſe Captaine <hi>Stack<g ref="char:EOLhyphen"/>houſe</hi> was ſhot at by ſome of the malignant crew, but the parties could not be found.</p>
+            <p>
+               <label>September 18.</label>
+All the Dragoneers of Captaine <hi>Wilſons</hi> Company went armed to Church, becauſe of the enmity that they ſaw in the Towne and Schollers againſt the Londoners, and there was two good ſermons preached, one by the Chaplaine of the Lord <hi>Lovelace,</hi> the other by one M. <hi>Corniſh.</hi>
+            </p>
+            <p>
+               <label>September 19.</label>
+On munday ſome raiſed a report the Lord <hi>Say</hi> was taken, but about noone he came into <hi>Oxford</hi> and many with him: and that day was many popiſh pictures burnt in <hi>Oxford</hi>
+               <pb n="8" facs="tcp:156112:6"/>
+               <!-- PDF PAGE 120 -->before the Inne-gate where the Lord <hi>Says</hi> habitation was, and many delinquents were brought before him, for ſome of which baile was taken, and for others he would take none; &amp; in the afternoone the Lord <hi>Say</hi> went to <hi>Woodſtocke</hi> to ſettle the Militia there, having begun to ſettle it firſt in <hi>Oxford,</hi> intending to returne backe againe to <hi>Oxford;</hi> and that day Captaine <hi>Maſons</hi> Company tooke to Horſes at Sir <hi>William Walters</hi> houſe.</p>
+            <p>
+               <label>September 20.</label>
+Sir <hi>Iohn Seaton</hi> with Captaine <hi>Wilſon</hi> and his Company came from <hi>Oxford</hi> to <hi>Wickham,</hi> and likewiſe Captaine <hi>Lee</hi> and Captaine <hi>Stackhouſe</hi> with their Companies came in af<g ref="char:EOLhyphen"/>ter them, and the Town did entertaine them all moſt loving<g ref="char:EOLhyphen"/>ly, and there was the Lord <hi>Sayes</hi> Regiment of Foot met by the Dragoneers, which Foot were going to <hi>Oxford</hi> to keepe the Town in peace.</p>
+            <p>
+               <label>September 21.</label>
+The ſame Sir <hi>Iohn</hi> with the three Companies (Captaine <hi>Maſon</hi> being left behind in <hi>Oxford</hi>) came marching up to <hi>London,</hi> Captaine <hi>Lee</hi> following Sir <hi>Iohn,</hi> Captaine <hi>Stack<g ref="char:EOLhyphen"/>houſe</hi> being in the midſt, and Captaine <hi>Wilſon</hi> with his Com<g ref="char:EOLhyphen"/>pany, marching in the Reare. A Guard of all the 4. Com<g ref="char:EOLhyphen"/>panies being left to bring up the Plate, Delinquents and o<g ref="char:EOLhyphen"/>ther things that were tooke, and to be brought up to <hi>London.</hi> Captaine <hi>Maſon</hi> comming from <hi>Oxford,</hi> on Tueſday to<g ref="char:EOLhyphen"/>ward night one of his men ſhot off his Peece, and the Town came running about them throwing ſtones at them, beating one off his horſe; but the Major came in and ſent 10 of thoſe mutinous perſons to the Gaole.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
